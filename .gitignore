@@ -1,0 +1,9 @@
+
+
+*.opensdf
+*.sdf
+*.suo
+*.user
+
+/src/x64/*
+/src/Wandering/x64/*
