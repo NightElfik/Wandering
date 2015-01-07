@@ -2,7 +2,7 @@
 Wandering
 =========
 
-Wandering is universal maze generator, solver, and game playable in a console.
+Wandering is generic maze generator, solver, and game playable in a console.
 It supports hexagonal and rectangular mazes and two types of maze generators
 Cool thing is that the maze type is independent of the solver.
 Every solver can solve every type of maze.
