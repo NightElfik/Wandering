@@ -17,7 +17,7 @@ Some techniques used in this proejct are not very smooth (such as including C++ 
 I am not planning to fix it or work on it anymore.
 I am sharing this project mostly because of its cool features.
 
-**License**: Public domain, see README.txt for details.
+**License**: Public domain, see LICENSE.txt for details.
 
 Features
 --------
