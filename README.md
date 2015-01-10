@@ -10,6 +10,8 @@ It is possible to define new maze types, generators, and solvers.
 Another cool feature is the UI system in a console including menus, text boxes, windows, and screen manager.
 This was my first larger program written in C++.
 
+**Author**: Marek Fiser &lt; code@marekfiser.cz &gt;
+
 **Project page**: http://www.marekfiser.com/Projects/Wandering
 
 **Disclaimer**: This project was my first project written in C++ in 2011.
